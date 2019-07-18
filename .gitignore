@@ -1,0 +1,6 @@
+
+*.zip
+*.rar
+*.spec
+/build/
+/dist/
